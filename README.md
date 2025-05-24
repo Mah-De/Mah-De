@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mah-De
 - 👀 I’m interested in every-complicated-thing
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning ML & DL
 - 📫 Reach me by mahdramezanee@gmail.com
 - ⚡ Student in Sharif Uni.
 
